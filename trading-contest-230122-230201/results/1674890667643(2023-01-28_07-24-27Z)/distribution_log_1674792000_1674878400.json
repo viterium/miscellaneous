@@ -1,0 +1,300 @@
+{
+  "rewards": {
+    "cycle": {
+      "index": 1347,
+      "type": "day",
+      "timeRange": {
+        "stime": "2023-01-27T04:00:00.000Z",
+        "etime": "2023-01-28T04:00:00.000Z"
+      }
+    },
+    "config": {
+      "seedPhrase": null,
+      "addressIndex": 3,
+      "rewardToken": "tti_b18e6488eeb30541da7f5010",
+      "tradingReward": "50000",
+      "limitOrderReward": "50000",
+      "orderDistanceThreshold": "0.1",
+      "tradingPair": "VT-000_VITE"
+    },
+    "totalRewards": {
+      "tradingReward": "49999.999999999999999992",
+      "limitOrderReward": "49999.99999999999999999",
+      "totalReward": "99999.999999999999999982"
+    },
+    "rewards": [
+      {
+        "address": "vite_7e7568ef7d39a2a35c761a5dfd788d72524e85785789abc51d",
+        "tradingReward": "16815.85153018937896245",
+        "limitOrdersReward": "12898.313062397916020497",
+        "totalReward": "29714.164592587294982947"
+      },
+      {
+        "address": "vite_6d1113ac7e6fcf7439661c098131fce9a32873c4eabcf98dd5",
+        "tradingReward": "7837.124937875617267474",
+        "limitOrdersReward": "12736.412582207288811386",
+        "totalReward": "20573.53752008290607886"
+      },
+      {
+        "address": "vite_8d51b79004dd35b4618e99822e791db9135898678e9fa2ef9c",
+        "tradingReward": "11067.576230552679519447",
+        "limitOrdersReward": "6430.670499774407424515",
+        "totalReward": "17498.246730327086943962"
+      },
+      {
+        "address": "vite_9948b2d386f72c3668e79921bdad0256ab5c8ed42fe92f03e9",
+        "tradingReward": "1431.816821790816252634",
+        "limitOrdersReward": "5740.745124734632582699",
+        "totalReward": "7172.561946525448835333"
+      },
+      {
+        "address": "vite_4385659b05458a2dd1b8e3c6384029bb14927caf2c44a12526",
+        "tradingReward": "5078.681365608213863349",
+        "limitOrdersReward": "0.169307365522524352",
+        "totalReward": "5078.850672973736387701"
+      },
+      {
+        "address": "vite_5ae48b3a0d6c3b1cd4017874d4a83cd9722ed44c67022c9001",
+        "tradingReward": "2997.382314493296965148",
+        "limitOrdersReward": "1546.539523784906955579",
+        "totalReward": "4543.921838278203920727"
+      },
+      {
+        "address": "vite_ff35b8b986b3e5f32f25bccdf2e74a4e172c28e62edefa8c47",
+        "tradingReward": "1386.345879655678769648",
+        "limitOrdersReward": "1634.578918051848341502",
+        "totalReward": "3020.92479770752711115"
+      },
+      {
+        "address": "vite_1b15b6f684be492e0b67ad98c6b91a80415b598156006c86f2",
+        "tradingReward": "291.805902333663031636",
+        "limitOrdersReward": "2490.071303090259107111",
+        "totalReward": "2781.877205423922138747"
+      },
+      {
+        "address": "vite_846bbb97d6a7191e3592c7277bd628f63e9cd2123dfb3d1c2a",
+        "tradingReward": "536.245904359295244557",
+        "limitOrdersReward": "1472.321299124994911669",
+        "totalReward": "2008.567203484290156226"
+      },
+      {
+        "address": "vite_752de7d799e20ce16d7627a4d71f2c786dcaa6e86f22407fd1",
+        "tradingReward": "0",
+        "limitOrdersReward": "1144.07734795494583203",
+        "totalReward": "1144.07734795494583203"
+      },
+      {
+        "address": "vite_66cc58cf77d94109478278d5b24ae0e6c45f030f3082882fd6",
+        "tradingReward": "1062.308624529292295267",
+        "limitOrdersReward": "0",
+        "totalReward": "1062.308624529292295267"
+      },
+      {
+        "address": "vite_5dd7f7eda08361605c2ae578abb4bf78af1de9a066b78ba2ac",
+        "tradingReward": "0",
+        "limitOrdersReward": "899.925402163241671049",
+        "totalReward": "899.925402163241671049"
+      },
+      {
+        "address": "vite_7c77a46998af0bed59fd3cd3d5f7a9cd8d95e03939bb1b9ef3",
+        "tradingReward": "0",
+        "limitOrdersReward": "788.287132761449183334",
+        "totalReward": "788.287132761449183334"
+      },
+      {
+        "address": "vite_27f8017a9b8ec0719e28b8e5063e2ad089f92373e8a91e1ca0",
+        "tradingReward": "278.445824930599710284",
+        "limitOrdersReward": "445.405797955177209764",
+        "totalReward": "723.851622885776920048"
+      },
+      {
+        "address": "vite_a6dc8eb7bc657cd2a14cf7fc7f7cabe9bdbe49c2a3dd5be6d6",
+        "tradingReward": "552.06186667123882317",
+        "limitOrdersReward": "0",
+        "totalReward": "552.06186667123882317"
+      },
+      {
+        "address": "vite_ddf28db61d5492e20816941caff4a7e11a97147c856db82396",
+        "tradingReward": "0",
+        "limitOrdersReward": "522.890108111571822858",
+        "totalReward": "522.890108111571822858"
+      },
+      {
+        "address": "vite_4041e7e3d80f879001b7ff67dbef4be23827b65131ef2c79ac",
+        "tradingReward": "0",
+        "limitOrdersReward": "440.981660127410247999",
+        "totalReward": "440.981660127410247999"
+      },
+      {
+        "address": "vite_40b481d6260363a35744bd502e91e03e7d71ab89f6aa353343",
+        "tradingReward": "254.75924890805151055",
+        "limitOrdersReward": "71.44329186115653242",
+        "totalReward": "326.20254076920804297"
+      },
+      {
+        "address": "vite_43b339a87beae0a2ad0a9ed88d381b39d2d874ec2aec92d459",
+        "tradingReward": "0",
+        "limitOrdersReward": "281.482714672896735986",
+        "totalReward": "281.482714672896735986"
+      },
+      {
+        "address": "vite_c17a195b56a207f4e725107476a2938d81e5248948e575efca",
+        "tradingReward": "198.056116410471976382",
+        "limitOrdersReward": "54.602250710451773612",
+        "totalReward": "252.658367120923749994"
+      },
+      {
+        "address": "vite_b087c3709bb177d0181d5297f1e281ada9c17f5bdbca47507f",
+        "tradingReward": "0",
+        "limitOrdersReward": "194.860873062245853205",
+        "totalReward": "194.860873062245853205"
+      },
+      {
+        "address": "vite_b62bea7f1e75517fad554a39014943ca06fb9100c94e7a4d20",
+        "tradingReward": "0",
+        "limitOrdersReward": "142.213182113910466283",
+        "totalReward": "142.213182113910466283"
+      },
+      {
+        "address": "vite_fe01f3a6ca59da34377a71e405e9cf74687e746e835e622594",
+        "tradingReward": "86.032836632831047049",
+        "limitOrdersReward": "0.559372188638452456",
+        "totalReward": "86.592208821469499505"
+      },
+      {
+        "address": "vite_79387e64c7dda3c367c59c779ba73aa41ab2a960204eee034b",
+        "tradingReward": "64.465142901710318528",
+        "limitOrdersReward": "0",
+        "totalReward": "64.465142901710318528"
+      },
+      {
+        "address": "vite_a7cec0a2882071d22b1e9b3c2e1003897e882baecbe183d3b5",
+        "tradingReward": "0",
+        "limitOrdersReward": "63.415268620043953809",
+        "totalReward": "63.415268620043953809"
+      },
+      {
+        "address": "vite_ab54595727d686a2bcca436310873907e498ad32b8c3fee664",
+        "tradingReward": "61.039452157164442419",
+        "limitOrdersReward": "0",
+        "totalReward": "61.039452157164442419"
+      },
+      {
+        "address": "vite_1861cf56657c09e32bcd50422821054d5c3546594889a9d78c",
+        "tradingReward": "0",
+        "limitOrdersReward": "0.033977165083585875",
+        "totalReward": "0.033977165083585875"
+      }
+    ]
+  },
+  "logs": {
+    "vite_7e7568ef7d39a2a35c761a5dfd788d72524e85785789abc51d": {
+      "hash": "8a89aeda2f883d7937ceec5bb2fe8c4a86dca9f779f38d392c88790cae84b0e8",
+      "runtimeType": "succeeded"
+    },
+    "vite_6d1113ac7e6fcf7439661c098131fce9a32873c4eabcf98dd5": {
+      "hash": "ddd9006838c51029eb35bf41ecb9b637619cee8810c8d5005b7593625108abe2",
+      "runtimeType": "succeeded"
+    },
+    "vite_8d51b79004dd35b4618e99822e791db9135898678e9fa2ef9c": {
+      "hash": "a1a1e08b3fa1f4a528e233b83c5a3a9dc3b6864f87d0487bc477641e66be3068",
+      "runtimeType": "succeeded"
+    },
+    "vite_9948b2d386f72c3668e79921bdad0256ab5c8ed42fe92f03e9": {
+      "hash": "9f3c6e54a578c19117bdd39526006cadc6245b815b8d224bb504bfeb60488493",
+      "runtimeType": "succeeded"
+    },
+    "vite_4385659b05458a2dd1b8e3c6384029bb14927caf2c44a12526": {
+      "hash": "9d6b538120bf5493d5ac042a680dab3204a4987b6e53fc977d83295b4a870e38",
+      "runtimeType": "succeeded"
+    },
+    "vite_5ae48b3a0d6c3b1cd4017874d4a83cd9722ed44c67022c9001": {
+      "hash": "f4aa03a2898b040e9db9fc5217883ed7db60dd7cf9a6379ab58973fcb40a2ce6",
+      "runtimeType": "succeeded"
+    },
+    "vite_ff35b8b986b3e5f32f25bccdf2e74a4e172c28e62edefa8c47": {
+      "hash": "42f8a7a11f1c7ee38112b39d7d08e32b574207ef7a6f957ce207bb671a5923a8",
+      "runtimeType": "succeeded"
+    },
+    "vite_1b15b6f684be492e0b67ad98c6b91a80415b598156006c86f2": {
+      "hash": "29f56cafa8824dcbb3091db05ce1a907101a944c647071024d9b72ca2b9a2100",
+      "runtimeType": "succeeded"
+    },
+    "vite_846bbb97d6a7191e3592c7277bd628f63e9cd2123dfb3d1c2a": {
+      "hash": "6e29f42543eb362f5d85f8e5077d26c45425dfabbbac4f3dfba16a42b6cb552b",
+      "runtimeType": "succeeded"
+    },
+    "vite_752de7d799e20ce16d7627a4d71f2c786dcaa6e86f22407fd1": {
+      "hash": "daa5791ed71a78a338f5b9e43588d05cd0c08dce4b74a1f5d390583a00a75ba7",
+      "runtimeType": "succeeded"
+    },
+    "vite_66cc58cf77d94109478278d5b24ae0e6c45f030f3082882fd6": {
+      "hash": "5f5b3453cc48311fc9034a77dfc91bd50dc949513ee418efff78aeb273bd8179",
+      "runtimeType": "succeeded"
+    },
+    "vite_5dd7f7eda08361605c2ae578abb4bf78af1de9a066b78ba2ac": {
+      "hash": "6278310f0f1d2f1670b69d45be9773605b30f1a64b86a7c5aafbeeadd53d3292",
+      "runtimeType": "succeeded"
+    },
+    "vite_7c77a46998af0bed59fd3cd3d5f7a9cd8d95e03939bb1b9ef3": {
+      "hash": "f36aef8f5f0afa93344050f7a826e792b444bdadabc5b48a9f0d4727cd9d7277",
+      "runtimeType": "succeeded"
+    },
+    "vite_27f8017a9b8ec0719e28b8e5063e2ad089f92373e8a91e1ca0": {
+      "hash": "81fd9a268bc4d93ed43e42c3dd56c4d30c8ba598c3084449f5633085f9b5736f",
+      "runtimeType": "succeeded"
+    },
+    "vite_a6dc8eb7bc657cd2a14cf7fc7f7cabe9bdbe49c2a3dd5be6d6": {
+      "hash": "49b698decb32dc76aecec3742671bda72ffae5c9cfd6734cb08b3b1c992eb0c5",
+      "runtimeType": "succeeded"
+    },
+    "vite_ddf28db61d5492e20816941caff4a7e11a97147c856db82396": {
+      "hash": "2bc522962c212aaf633983c621eb5db264e5b7ca222d0b74ff264b3eb6829c46",
+      "runtimeType": "succeeded"
+    },
+    "vite_4041e7e3d80f879001b7ff67dbef4be23827b65131ef2c79ac": {
+      "hash": "96bafe10a976e228ae0065c00fca646d9deb212b2ccd1df3671a790e4a7708c0",
+      "runtimeType": "succeeded"
+    },
+    "vite_40b481d6260363a35744bd502e91e03e7d71ab89f6aa353343": {
+      "hash": "9d3946565be349f7d8c58bbfaeedd7340d72c207cc45ec81625d59bbcc67fc5a",
+      "runtimeType": "succeeded"
+    },
+    "vite_43b339a87beae0a2ad0a9ed88d381b39d2d874ec2aec92d459": {
+      "hash": "413552c826b628dcb77be7e82a92d0ce898797b38b7375cdf7bd4f82c268d238",
+      "runtimeType": "succeeded"
+    },
+    "vite_c17a195b56a207f4e725107476a2938d81e5248948e575efca": {
+      "hash": "7691ed7e1a6869830189bb34843323d6e085eacfacb400777bc42bceb2cfc307",
+      "runtimeType": "succeeded"
+    },
+    "vite_b087c3709bb177d0181d5297f1e281ada9c17f5bdbca47507f": {
+      "hash": "6e63e263b7776c4e7300d7d8290c3ad46385a34de289d86d5dc6e201bf150e84",
+      "runtimeType": "succeeded"
+    },
+    "vite_b62bea7f1e75517fad554a39014943ca06fb9100c94e7a4d20": {
+      "hash": "dcaa3b7069c0d601819402cd67a0855bd3dbe8caa242f5b2e1d63e87a017ade2",
+      "runtimeType": "succeeded"
+    },
+    "vite_fe01f3a6ca59da34377a71e405e9cf74687e746e835e622594": {
+      "hash": "f511f47e3a08613a65c3c83019f381e43287737d2f27cc13da5ffc6bcbedd58f",
+      "runtimeType": "succeeded"
+    },
+    "vite_79387e64c7dda3c367c59c779ba73aa41ab2a960204eee034b": {
+      "hash": "d974a459a68e0d93fa1c795d7da7b08a62d99bdef7a8cfff3b3a8725ee9c5974",
+      "runtimeType": "succeeded"
+    },
+    "vite_a7cec0a2882071d22b1e9b3c2e1003897e882baecbe183d3b5": {
+      "hash": "8d38bc0c07704b04886917b6b2a742fb3e5c5e76bd407d435c8b3e1c7a880cd4",
+      "runtimeType": "succeeded"
+    },
+    "vite_ab54595727d686a2bcca436310873907e498ad32b8c3fee664": {
+      "hash": "9d3e8d313e895e7eeb9b2a2793c9e8d818fbf9431a35a282d07fa9e4f7af0a3c",
+      "runtimeType": "succeeded"
+    },
+    "vite_1861cf56657c09e32bcd50422821054d5c3546594889a9d78c": {
+      "hash": "89a1936d76d0b46489b6c8d86fb5c2614cd79a1de32c4ca1759258693d4dde6f",
+      "runtimeType": "succeeded"
+    }
+  }
+}

@@ -1,0 +1,602 @@
+{
+  "cycle": {
+    "index": 1351,
+    "type": "day",
+    "timeRange": {
+      "stime": "2023-01-22T04:00:00.000Z",
+      "etime": "2023-02-01T04:00:00.000Z"
+    }
+  },
+  "config": {
+    "seedPhrase": null,
+    "addressIndex": 3,
+    "rewardToken": "tti_b18e6488eeb30541da7f5010",
+    "tradingReward": "50000",
+    "limitOrderReward": "50000",
+    "orderDistanceThreshold": "0.1",
+    "tradingPair": "VT-000_VITE"
+  },
+  "totalRewards": {
+    "tradingReward": "49999.999999999999999956",
+    "limitOrderReward": "49999.999999999999999964",
+    "totalReward": "99999.99999999999999992"
+  },
+  "rewards": [
+    {
+      "address": "vite_8d51b79004dd35b4618e99822e791db9135898678e9fa2ef9c",
+      "tradingReward": "16344.807574743457269601",
+      "limitOrdersReward": "7752.853426931943497808",
+      "totalReward": "24097.661001675400767409"
+    },
+    {
+      "address": "vite_7e7568ef7d39a2a35c761a5dfd788d72524e85785789abc51d",
+      "tradingReward": "7425.764155315819272631",
+      "limitOrdersReward": "11116.975712981166097622",
+      "totalReward": "18542.739868296985370253"
+    },
+    {
+      "address": "vite_6d1113ac7e6fcf7439661c098131fce9a32873c4eabcf98dd5",
+      "tradingReward": "773.503389319641979212",
+      "limitOrdersReward": "9361.095501161187751334",
+      "totalReward": "10134.598890480829730546"
+    },
+    {
+      "address": "vite_1b15b6f684be492e0b67ad98c6b91a80415b598156006c86f2",
+      "tradingReward": "1758.06716760363895075",
+      "limitOrdersReward": "3281.96048092950190147",
+      "totalReward": "5040.02764853314085222"
+    },
+    {
+      "address": "vite_ff35b8b986b3e5f32f25bccdf2e74a4e172c28e62edefa8c47",
+      "tradingReward": "2272.44315007369553966",
+      "limitOrdersReward": "2293.512343825431268654",
+      "totalReward": "4565.955493899126808314"
+    },
+    {
+      "address": "vite_752de7d799e20ce16d7627a4d71f2c786dcaa6e86f22407fd1",
+      "tradingReward": "1468.598420822680447538",
+      "limitOrdersReward": "1339.556083630769072734",
+      "totalReward": "2808.154504453449520272"
+    },
+    {
+      "address": "vite_fe01f3a6ca59da34377a71e405e9cf74687e746e835e622594",
+      "tradingReward": "1282.337226102609797757",
+      "limitOrdersReward": "1434.594109567616292833",
+      "totalReward": "2716.93133567022609059"
+    },
+    {
+      "address": "vite_80bfb2c7745e705a458412335f47567b00afe2e658635f46bb",
+      "tradingReward": "774.15569420811602772",
+      "limitOrdersReward": "1939.65135278504017005",
+      "totalReward": "2713.80704699315619777"
+    },
+    {
+      "address": "vite_be23994312e24709ec2d27883bc52be858d49efec4371c1e57",
+      "tradingReward": "32.658236987684133893",
+      "limitOrdersReward": "2628.90155213395130952",
+      "totalReward": "2661.559789121635443413"
+    },
+    {
+      "address": "vite_7c5fce472e328098823d57fdb5a991cd28f1feaf8d892fb00a",
+      "tradingReward": "2238.432114982662864414",
+      "limitOrdersReward": "1.38468630421281755",
+      "totalReward": "2239.816801286875681964"
+    },
+    {
+      "address": "vite_ef8d531107c3a1bef5741e8eef7723c85374a486dc13e4c813",
+      "tradingReward": "143.34481672810999247",
+      "limitOrdersReward": "2054.100461297613674122",
+      "totalReward": "2197.445278025723666592"
+    },
+    {
+      "address": "vite_9948b2d386f72c3668e79921bdad0256ab5c8ed42fe92f03e9",
+      "tradingReward": "403.501811351237273926",
+      "limitOrdersReward": "991.303421522556511793",
+      "totalReward": "1394.805232873793785719"
+    },
+    {
+      "address": "vite_ff1d825aded0cb3507ae6009f32b7625d3affaa102a79793a8",
+      "tradingReward": "1131.020679190187872111",
+      "limitOrdersReward": "122.700410593778039998",
+      "totalReward": "1253.721089783965912109"
+    },
+    {
+      "address": "vite_a75ef6528977518c417b1e2b19e4dc77594425a0e7902a4f10",
+      "tradingReward": "1195.855220373835550499",
+      "limitOrdersReward": "1.805870899527014555",
+      "totalReward": "1197.661091273362565054"
+    },
+    {
+      "address": "vite_846bbb97d6a7191e3592c7277bd628f63e9cd2123dfb3d1c2a",
+      "tradingReward": "702.406346077063851606",
+      "limitOrdersReward": "433.833409584795560459",
+      "totalReward": "1136.239755661859412065"
+    },
+    {
+      "address": "vite_b087c3709bb177d0181d5297f1e281ada9c17f5bdbca47507f",
+      "tradingReward": "372.157962181200665367",
+      "limitOrdersReward": "694.106743792356932",
+      "totalReward": "1066.264705973557597367"
+    },
+    {
+      "address": "vite_66cc58cf77d94109478278d5b24ae0e6c45f030f3082882fd6",
+      "tradingReward": "977.459149482110831458",
+      "limitOrdersReward": "21.119158362844088357",
+      "totalReward": "998.578307844954919815"
+    },
+    {
+      "address": "vite_a382d461b48ae17be49ecb60443ea525426d21dea8d49a22f7",
+      "tradingReward": "933.160111277853754233",
+      "limitOrdersReward": "0.341260213367877746",
+      "totalReward": "933.501371491221631979"
+    },
+    {
+      "address": "vite_5ae48b3a0d6c3b1cd4017874d4a83cd9722ed44c67022c9001",
+      "tradingReward": "612.806519513769437582",
+      "limitOrdersReward": "301.565508179718658042",
+      "totalReward": "914.372027693488095624"
+    },
+    {
+      "address": "vite_cfc827a330690e03534f54c9c224ce058dd35ebd4562331405",
+      "tradingReward": "699.737679389811500244",
+      "limitOrdersReward": "199.672118691644111612",
+      "totalReward": "899.409798081455611856"
+    },
+    {
+      "address": "vite_43b339a87beae0a2ad0a9ed88d381b39d2d874ec2aec92d459",
+      "tradingReward": "127.090369867721891066",
+      "limitOrdersReward": "759.922672309447084238",
+      "totalReward": "887.013042177168975304"
+    },
+    {
+      "address": "vite_a6dc8eb7bc657cd2a14cf7fc7f7cabe9bdbe49c2a3dd5be6d6",
+      "tradingReward": "840.733632186272084257",
+      "limitOrdersReward": "0.486808526438068003",
+      "totalReward": "841.22044071271015226"
+    },
+    {
+      "address": "vite_ed13fdd3e9840d13ae20277098fddaee59089b68bb8614e5f0",
+      "tradingReward": "745.939043440358414146",
+      "limitOrdersReward": "36.201929016258817324",
+      "totalReward": "782.14097245661723147"
+    },
+    {
+      "address": "vite_4041e7e3d80f879001b7ff67dbef4be23827b65131ef2c79ac",
+      "tradingReward": "282.815775154029526697",
+      "limitOrdersReward": "460.391143144482985413",
+      "totalReward": "743.20691829851251211"
+    },
+    {
+      "address": "vite_7c77a46998af0bed59fd3cd3d5f7a9cd8d95e03939bb1b9ef3",
+      "tradingReward": "432.347074168001905151",
+      "limitOrdersReward": "278.240143853940161365",
+      "totalReward": "710.587218021942066516"
+    },
+    {
+      "address": "vite_6e7eb95f5b28e9e850c62929497166f559d7b134e1a68bee45",
+      "tradingReward": "696.191852033918116748",
+      "limitOrdersReward": "7.534275816616551493",
+      "totalReward": "703.726127850534668241"
+    },
+    {
+      "address": "vite_f9a3011e3d922d3d5e2514521c7db0a2f4bcaa78e532528a66",
+      "tradingReward": "337.652674289563480146",
+      "limitOrdersReward": "218.851638331324042753",
+      "totalReward": "556.504312620887522899"
+    },
+    {
+      "address": "vite_ddf28db61d5492e20816941caff4a7e11a97147c856db82396",
+      "tradingReward": "187.98678347720225275",
+      "limitOrdersReward": "320.269061484411234834",
+      "totalReward": "508.255844961613487584"
+    },
+    {
+      "address": "vite_4385659b05458a2dd1b8e3c6384029bb14927caf2c44a12526",
+      "tradingReward": "451.500518958411658997",
+      "limitOrdersReward": "0.027147714783956524",
+      "totalReward": "451.527666673195615521"
+    },
+    {
+      "address": "vite_c17a195b56a207f4e725107476a2938d81e5248948e575efca",
+      "tradingReward": "121.307152165012801333",
+      "limitOrdersReward": "258.608631892101419413",
+      "totalReward": "379.915784057114220746"
+    },
+    {
+      "address": "vite_79be251c801f68dd2e56b6e7087890ade2f9ed7ec5cbeec454",
+      "tradingReward": "204.159002339135434735",
+      "limitOrdersReward": "156.75028402331476662",
+      "totalReward": "360.909286362450201355"
+    },
+    {
+      "address": "vite_c6c8ca1f2fd825934a5bc9b622943508522934317906e31860",
+      "tradingReward": "324.465021827679041995",
+      "limitOrdersReward": "0",
+      "totalReward": "324.465021827679041995"
+    },
+    {
+      "address": "vite_dd6b3acb4206d7ceff4dc5aeac3c209f3b9f8a32fd14363b7a",
+      "tradingReward": "0",
+      "limitOrdersReward": "319.62122103013879268",
+      "totalReward": "319.62122103013879268"
+    },
+    {
+      "address": "vite_27f8017a9b8ec0719e28b8e5063e2ad089f92373e8a91e1ca0",
+      "tradingReward": "148.017480050023101332",
+      "limitOrdersReward": "121.047583834007749419",
+      "totalReward": "269.065063884030850751"
+    },
+    {
+      "address": "vite_6695f479612314f9abf99412e13d3e3147f8a8d8b5bc7a6fb5",
+      "tradingReward": "261.628464785993277533",
+      "limitOrdersReward": "0",
+      "totalReward": "261.628464785993277533"
+    },
+    {
+      "address": "vite_d53ed6b17384f736d6d1e04b98ac00bef870164acd7f8e7e67",
+      "tradingReward": "0",
+      "limitOrdersReward": "217.063870493670265882",
+      "totalReward": "217.063870493670265882"
+    },
+    {
+      "address": "vite_ea549fb84c9e0c343eaad1d65e156e9bf1d50bf88a1f933ba1",
+      "tradingReward": "212.207602530014703736",
+      "limitOrdersReward": "0",
+      "totalReward": "212.207602530014703736"
+    },
+    {
+      "address": "vite_5902cb491bf5a9b7c69edf5a4bef0ae8ddae8dbea554e39f15",
+      "tradingReward": "205.446344151604911818",
+      "limitOrdersReward": "0.408068202339571247",
+      "totalReward": "205.854412353944483065"
+    },
+    {
+      "address": "vite_c7df3a220ac3a5c2ab9f9f25e395ab77cf4d7d3422202f77a3",
+      "tradingReward": "200.103260973667859783",
+      "limitOrdersReward": "5.204957833154608354",
+      "totalReward": "205.308218806822468137"
+    },
+    {
+      "address": "vite_5dd7f7eda08361605c2ae578abb4bf78af1de9a066b78ba2ac",
+      "tradingReward": "0",
+      "limitOrdersReward": "202.739943802596830968",
+      "totalReward": "202.739943802596830968"
+    },
+    {
+      "address": "vite_50f2bddf6eb68426a2b8012da58eb5ffd5819f49341f953ebc",
+      "tradingReward": "187.555882981129100922",
+      "limitOrdersReward": "9.56678460023007628",
+      "totalReward": "197.122667581359177202"
+    },
+    {
+      "address": "vite_40b481d6260363a35744bd502e91e03e7d71ab89f6aa353343",
+      "tradingReward": "29.374513752065278806",
+      "limitOrdersReward": "167.308048341191307847",
+      "totalReward": "196.682562093256586653"
+    },
+    {
+      "address": "vite_3fbbfafe4ac9f611a91d617810875757cb52d710c986de0a61",
+      "tradingReward": "187.938524176766394335",
+      "limitOrdersReward": "0",
+      "totalReward": "187.938524176766394335"
+    },
+    {
+      "address": "vite_29435dfb36f5a8bfc3f9bd17b8bc766513d796632f674400cd",
+      "tradingReward": "146.295028009019759607",
+      "limitOrdersReward": "17.787602469561437248",
+      "totalReward": "164.082630478581196855"
+    },
+    {
+      "address": "vite_6bf8a65c22adb72275eeeec095280e0acefd63418fb6a5d32c",
+      "tradingReward": "73.282201453580733325",
+      "limitOrdersReward": "76.654891781360192142",
+      "totalReward": "149.937093234940925467"
+    },
+    {
+      "address": "vite_dec16219492e70b400fccf14fa58121f5950ff4d657d679eb8",
+      "tradingReward": "146.838311605950807528",
+      "limitOrdersReward": "0",
+      "totalReward": "146.838311605950807528"
+    },
+    {
+      "address": "vite_a750fd799a78719d1bd3ba4bfa497435e73fb248d1e7d715f8",
+      "tradingReward": "144.997370929698011921",
+      "limitOrdersReward": "0.63868167674707431",
+      "totalReward": "145.636052606445086231"
+    },
+    {
+      "address": "vite_d4d963fa23f035b11d529f1fffd9606706a057f2e93131f123",
+      "tradingReward": "135.434009152958641525",
+      "limitOrdersReward": "5.793282470398893259",
+      "totalReward": "141.227291623357534784"
+    },
+    {
+      "address": "vite_86bb4e4106ac4f4b9da63602010de92a2dedfc419b74fac35f",
+      "tradingReward": "137.717599422165239536",
+      "limitOrdersReward": "0",
+      "totalReward": "137.717599422165239536"
+    },
+    {
+      "address": "vite_b62bea7f1e75517fad554a39014943ca06fb9100c94e7a4d20",
+      "tradingReward": "79.122190776557538755",
+      "limitOrdersReward": "53.938200294050119436",
+      "totalReward": "133.060391070607658191"
+    },
+    {
+      "address": "vite_7d5887135d12988697cf7fb66305ea22e3972790d27a3f909c",
+      "tradingReward": "115.598017547141524455",
+      "limitOrdersReward": "2.802829749491042578",
+      "totalReward": "118.400847296632567033"
+    },
+    {
+      "address": "vite_b23e22f0b277286755dfc0d2d021de5f0de90503e63872affb",
+      "tradingReward": "89.555219711268768067",
+      "limitOrdersReward": "27.50068867666666617",
+      "totalReward": "117.055908387935434237"
+    },
+    {
+      "address": "vite_d0c14c9f4a9e60d4cae330b722321a0021bf8bd36034acc9e5",
+      "tradingReward": "105.700931620979011136",
+      "limitOrdersReward": "0",
+      "totalReward": "105.700931620979011136"
+    },
+    {
+      "address": "vite_a7cec0a2882071d22b1e9b3c2e1003897e882baecbe183d3b5",
+      "tradingReward": "31.86724065294347009",
+      "limitOrdersReward": "70.023573828267782293",
+      "totalReward": "101.890814481211252383"
+    },
+    {
+      "address": "vite_53376e73f8cad15002c9ef4d5a7e96ceee13f7150dc18e7965",
+      "tradingReward": "97.517647327638187773",
+      "limitOrdersReward": "0.329469223662875041",
+      "totalReward": "97.847116551301062814"
+    },
+    {
+      "address": "vite_07e2ddb32b725e2516027931d7a9df6f48adf023a4195cc385",
+      "tradingReward": "67.676890646522342667",
+      "limitOrdersReward": "29.567938993862206706",
+      "totalReward": "97.244829640384549373"
+    },
+    {
+      "address": "vite_700c3af14346d3ebdd863b95856ba6e85517dc54666048a578",
+      "tradingReward": "90.516366421753580876",
+      "limitOrdersReward": "0.481638192590941242",
+      "totalReward": "90.998004614344522118"
+    },
+    {
+      "address": "vite_302b0f8550dd3aa8942a45dd26b22dbe82cff809805a5a2d06",
+      "tradingReward": "83.703408607049537664",
+      "limitOrdersReward": "0",
+      "totalReward": "83.703408607049537664"
+    },
+    {
+      "address": "vite_35a30e15f3f58f765d7c2c1beb35679f2679bf6bf83ff1ba12",
+      "tradingReward": "70.208135325939262814",
+      "limitOrdersReward": "9.417295986056054949",
+      "totalReward": "79.625431311995317763"
+    },
+    {
+      "address": "vite_1861cf56657c09e32bcd50422821054d5c3546594889a9d78c",
+      "tradingReward": "75.323494068934788781",
+      "limitOrdersReward": "0.181795111088067869",
+      "totalReward": "75.50528918002285665"
+    },
+    {
+      "address": "vite_b1a4a43851fe8adc1f5f5c9f124f898010296088334afc8d83",
+      "tradingReward": "73.287442013981237846",
+      "limitOrdersReward": "0",
+      "totalReward": "73.287442013981237846"
+    },
+    {
+      "address": "vite_ee580a7da0976b01108f1e15954c52b76f7680270d51e741fe",
+      "tradingReward": "0",
+      "limitOrdersReward": "68.538030330560705317",
+      "totalReward": "68.538030330560705317"
+    },
+    {
+      "address": "vite_4f0749f260c59cf1bb5abb8ed735a2bafb6532e0be91081099",
+      "tradingReward": "66.591057777546038746",
+      "limitOrdersReward": "0",
+      "totalReward": "66.591057777546038746"
+    },
+    {
+      "address": "vite_58b93bb85e09b2b8bb8b51648492adab714f5bfd6708404463",
+      "tradingReward": "51.739315283521232044",
+      "limitOrdersReward": "0",
+      "totalReward": "51.739315283521232044"
+    },
+    {
+      "address": "vite_624501a031f07df223dbd7256123ca2729ebd3cbcb7fe919d8",
+      "tradingReward": "50.800590051173859549",
+      "limitOrdersReward": "0.12029339559879403",
+      "totalReward": "50.920883446772653579"
+    },
+    {
+      "address": "vite_47406ba7ae144c0f7de5a2cc2e8f6f7bfa18ce220722d9ca29",
+      "tradingReward": "0",
+      "limitOrdersReward": "40.266269271580331709",
+      "totalReward": "40.266269271580331709"
+    },
+    {
+      "address": "vite_ba206b26d96c1c50817fceaa78706766930f62bf09096114c8",
+      "tradingReward": "39.186982365349324719",
+      "limitOrdersReward": "0",
+      "totalReward": "39.186982365349324719"
+    },
+    {
+      "address": "vite_58717d76f675069348bfcd3f017beaeb7f509ae16c52a6fa4d",
+      "tradingReward": "13.484075938285665025",
+      "limitOrdersReward": "20.733321142881084873",
+      "totalReward": "34.217397081166749898"
+    },
+    {
+      "address": "vite_bfdb1d1d0a93d4a7eab12e40a2d979c829018b531c0c590f01",
+      "tradingReward": "32.055820761616727658",
+      "limitOrdersReward": "0.484837454303507252",
+      "totalReward": "32.54065821592023491"
+    },
+    {
+      "address": "vite_e13c7b1ace5c714e97ae2aedcdf90084ad7b88a1f29b37c0be",
+      "tradingReward": "21.705540514336749061",
+      "limitOrdersReward": "6.531309134314194494",
+      "totalReward": "28.236849648650943555"
+    },
+    {
+      "address": "vite_f0ba31be69a27ea162ec73743919116121575351a045e8215a",
+      "tradingReward": "27.397221226419440425",
+      "limitOrdersReward": "0.788720380362781203",
+      "totalReward": "28.185941606782221628"
+    },
+    {
+      "address": "vite_4714df75472080ab58306d114fecd8b3e34f36288772ef19ce",
+      "tradingReward": "25.223840775525154596",
+      "limitOrdersReward": "0.310280167135570965",
+      "totalReward": "25.534120942660725561"
+    },
+    {
+      "address": "vite_04129064dcbd51acff033f2ab03a9ce735ef238211a4c5b2fa",
+      "tradingReward": "24.019577628740339465",
+      "limitOrdersReward": "0",
+      "totalReward": "24.019577628740339465"
+    },
+    {
+      "address": "vite_6babb122680e1bcd4d4a37bf514c2cdd2dd2778a3fb4fea626",
+      "tradingReward": "0",
+      "limitOrdersReward": "22.901813404324111791",
+      "totalReward": "22.901813404324111791"
+    },
+    {
+      "address": "vite_3cc2766e7d10d89e6d5fb71361f6d9ba38ef6a7dda356aa57e",
+      "tradingReward": "22.048003747035273388",
+      "limitOrdersReward": "0",
+      "totalReward": "22.048003747035273388"
+    },
+    {
+      "address": "vite_417fa15d1b02bac01d35293059a2c01225ba8739c2347a3c1d",
+      "tradingReward": "20.392224109673243586",
+      "limitOrdersReward": "0.574586278813955547",
+      "totalReward": "20.966810388487199133"
+    },
+    {
+      "address": "vite_618264df4fb41d84bf5251aab0393dece368d3d3bdaf1cc9ec",
+      "tradingReward": "11.505117388923173592",
+      "limitOrdersReward": "9.31084078122524649",
+      "totalReward": "20.815958170148420082"
+    },
+    {
+      "address": "vite_0a2cee0f5926084f05b5a7ca25b6f4ec2c11d85c1c644b1867",
+      "tradingReward": "8.517353207896551587",
+      "limitOrdersReward": "7.589128772591491448",
+      "totalReward": "16.106481980488043035"
+    },
+    {
+      "address": "vite_faf72aeedd27f160f2e0f7a132f7c39b3d0979f77a1d8a1cf1",
+      "tradingReward": "14.29612715003463653",
+      "limitOrdersReward": "0",
+      "totalReward": "14.29612715003463653"
+    },
+    {
+      "address": "vite_5cb37bd407f867c020aa030e4c6c1e9f7f02c4910d5689acc3",
+      "tradingReward": "0",
+      "limitOrdersReward": "13.741335289682772387",
+      "totalReward": "13.741335289682772387"
+    },
+    {
+      "address": "vite_8676b7be1aad5f49e17460a12761951fa3b2cf3d1e08399f61",
+      "tradingReward": "12.180469205465576041",
+      "limitOrdersReward": "0",
+      "totalReward": "12.180469205465576041"
+    },
+    {
+      "address": "vite_79387e64c7dda3c367c59c779ba73aa41ab2a960204eee034b",
+      "tradingReward": "11.864461494732587337",
+      "limitOrdersReward": "0",
+      "totalReward": "11.864461494732587337"
+    },
+    {
+      "address": "vite_899ab9d8ba6d065c0ebc5d7bab865b8271a55e6e2b8b351002",
+      "tradingReward": "9.062899089597534236",
+      "limitOrdersReward": "0",
+      "totalReward": "9.062899089597534236"
+    },
+    {
+      "address": "vite_1b9d0d4967597be713c426e1686601c8bda6c6335e746ca11d",
+      "tradingReward": "7.264709937397647419",
+      "limitOrdersReward": "0",
+      "totalReward": "7.264709937397647419"
+    },
+    {
+      "address": "vite_e815841261ca4a882951845b5a3f66bccb0976845422ee2f05",
+      "tradingReward": "6.75592431971937819",
+      "limitOrdersReward": "0",
+      "totalReward": "6.75592431971937819"
+    },
+    {
+      "address": "vite_abd3701197515b95e1b674dcf2ebe0bf023c2d0658f70f8ffa",
+      "tradingReward": "5.393102039607127497",
+      "limitOrdersReward": "0",
+      "totalReward": "5.393102039607127497"
+    },
+    {
+      "address": "vite_a606b89a649e9214c945a7d34d522bb7aa2f082b24cd5aa9b4",
+      "tradingReward": "4.965184145414473583",
+      "limitOrdersReward": "0",
+      "totalReward": "4.965184145414473583"
+    },
+    {
+      "address": "vite_d4855ae4366d9e9d9fa7f4129201f9ef2ff09bb8b0c65e8b3c",
+      "tradingReward": "3.558279763015672694",
+      "limitOrdersReward": "1.167351048314211562",
+      "totalReward": "4.725630811329884256"
+    },
+    {
+      "address": "vite_527891c36565150bb63240303affc28f559e34dd0cbd955854",
+      "tradingReward": "4.013000755108623439",
+      "limitOrdersReward": "0",
+      "totalReward": "4.013000755108623439"
+    },
+    {
+      "address": "vite_ab54595727d686a2bcca436310873907e498ad32b8c3fee664",
+      "tradingReward": "3.838927574657952271",
+      "limitOrdersReward": "0",
+      "totalReward": "3.838927574657952271"
+    },
+    {
+      "address": "vite_1e6fcaa6ade80cb29b981bc70b2e8396bbdfd70a04e6164705",
+      "tradingReward": "3.703956597554952995",
+      "limitOrdersReward": "0",
+      "totalReward": "3.703956597554952995"
+    },
+    {
+      "address": "vite_74cd52156c71c1678a9f94406d7c045e8caee1fa0966e5ff23",
+      "tradingReward": "3.55828219232829425",
+      "limitOrdersReward": "0",
+      "totalReward": "3.55828219232829425"
+    },
+    {
+      "address": "vite_ac38e0a3bb62425a97cfa6b649ec942e83f2ae6651ce8c3388",
+      "tradingReward": "3.558050631482076709",
+      "limitOrdersReward": "0",
+      "totalReward": "3.558050631482076709"
+    },
+    {
+      "address": "vite_6bd35e5af1e0102dde3065f44675cb616a20bdeb468fa9d5c1",
+      "tradingReward": "0",
+      "limitOrdersReward": "0.410629059957445282",
+      "totalReward": "0.410629059957445282"
+    },
+    {
+      "address": "vite_5db4cb1b1a69e60adba2b231d0428e360396647f6e9fe09b3f",
+      "tradingReward": "0",
+      "limitOrdersReward": "0.101153063904884833",
+      "totalReward": "0.101153063904884833"
+    },
+    {
+      "address": "vite_67d02dc2b3d974c1b9709a0d73cb5d442335cb8d9ad22b77a6",
+      "tradingReward": "0",
+      "limitOrdersReward": "0.034384931174618622",
+      "totalReward": "0.034384931174618622"
+    }
+  ]
+}

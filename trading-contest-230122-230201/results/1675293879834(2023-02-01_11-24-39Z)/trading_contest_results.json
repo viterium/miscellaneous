@@ -1,0 +1,12 @@
+{
+    "trading": [
+        "vite_8d51b79004dd35b4618e99822e791db9135898678e9fa2ef9c",
+        "vite_7e7568ef7d39a2a35c761a5dfd788d72524e85785789abc51d",
+        "vite_ff35b8b986b3e5f32f25bccdf2e74a4e172c28e62edefa8c47"
+    ],
+    "limitOrders": [
+        "vite_7e7568ef7d39a2a35c761a5dfd788d72524e85785789abc51d",
+        "vite_6d1113ac7e6fcf7439661c098131fce9a32873c4eabcf98dd5",
+        "vite_8d51b79004dd35b4618e99822e791db9135898678e9fa2ef9c"
+    ]
+}
